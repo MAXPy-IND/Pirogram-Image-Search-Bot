@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width:100px; height:100px;" src="https://avatars.githubusercontent.com/u/145136303?v=4" alt="Pirogram-Image-Search-Bot Logo">
+<img style="width:100px; height:100px;" src="ImageSearchBot.png" alt="Pirogram-Image-Search-Bot Logo">
 </p>
 
 <h1 align="center">
